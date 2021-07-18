@@ -1,0 +1,11 @@
+.my-cursor {
+    background: hsl(176, 44%, 66%);
+    width: 2px !important;
+    animation: blink-animation 1.2s steps(2, start) infinite;
+}
+
+@keyframes blink-animation {
+    to {
+      visibility: hidden;
+    }
+}
