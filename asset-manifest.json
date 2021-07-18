@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/crdt-editor/static/css/main.caf65ecb.chunk.css",
-    "main.js": "/crdt-editor/static/js/main.227e134c.chunk.js",
-    "main.js.map": "/crdt-editor/static/js/main.227e134c.chunk.js.map",
+    "main.js": "/crdt-editor/static/js/main.bed839c0.chunk.js",
+    "main.js.map": "/crdt-editor/static/js/main.bed839c0.chunk.js.map",
     "runtime-main.js": "/crdt-editor/static/js/runtime-main.2529c92f.js",
     "runtime-main.js.map": "/crdt-editor/static/js/runtime-main.2529c92f.js.map",
     "static/js/2.dfea4547.chunk.js": "/crdt-editor/static/js/2.dfea4547.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.2529c92f.js",
     "static/js/2.dfea4547.chunk.js",
     "static/css/main.caf65ecb.chunk.css",
-    "static/js/main.227e134c.chunk.js"
+    "static/js/main.bed839c0.chunk.js"
   ]
 }
